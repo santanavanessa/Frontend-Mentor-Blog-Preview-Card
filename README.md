@@ -2,6 +2,10 @@
 
 Solução do desafio Blog Preview Card do Frontend Mentor, desenvolvida com HTML e CSS.
 
+## Link
+
+https://frontend-mentor-blog-preview-card-lilac.vercel.app/
+
 ## Screenshot da Versão Desktop
 ![Desktop Screenshot](https://github.com/santanavanessa/Frontend-Mentor-Blog-Preview-Card/assets/48105425/ed245304-648e-451b-a218-4f9c2eeca08a)
 
