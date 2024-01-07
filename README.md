@@ -1,6 +1,6 @@
 # Frontend Mentor | Blog Preview Card
 
-Solução do desafio Blog Preview Card do Frontend Mentor, desenvolvida com HTML e CSS.
+Solução do desafio Blog Preview Card do Frontend Mentor, desenvolvido com HTML e CSS.
 
 ## Link
 
